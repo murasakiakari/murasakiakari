@@ -1,3 +1,3 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murasakiakari&langs_count=4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murasakiakari&langs_count=5&layout=compact)
 
-## If one of my repo can help you, it is my pleasure.
+## If one of my repository can help you, it is my pleasure.
